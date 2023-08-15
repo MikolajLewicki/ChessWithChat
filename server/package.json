@@ -31,8 +31,5 @@
     "nodemon": "^2.0.22",
     "tmi.js": "^1.8.5",
     "winston": "^3.8.2"
-  },
-  "devDependencies": {
-    "react-error-overlay": "6.0.9"  
   }
 }
