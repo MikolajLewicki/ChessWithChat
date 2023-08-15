@@ -1,0 +1,10 @@
+node_modules
+build
+npm-debug.log
+.nyc
+.env
+.htaccess
+.DS_Store
+.log
+activity.log
+errors.log

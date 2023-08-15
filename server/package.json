@@ -1,0 +1,38 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@google-analytics/data": "^3.2.1",
+    "axios": "^0.27.2",
+    "bcrypt": "^5.1.0",
+    "body-parser": "^1.20.0",
+    "cheerio": "^1.0.0-rc.12",
+    "chess.js": "^1.0.0-beta.6",
+    "cors": "^2.8.5",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.0.1",
+    "express": "^4.18.1",
+    "express-rate-limit": "^6.7.0",
+    "express-ws": "^5.0.2",
+    "helmet": "^6.0.1",
+    "kokopu": "^4.7.0",
+    "mongoose": "^6.6.3",
+    "ndjson-rxjs": "^1.0.0",
+    "nodemailer": "^6.9.3",
+    "nodemon": "^2.0.22",
+    "tmi.js": "^1.8.5",
+    "winston": "^3.8.2"
+  },
+  "devDependencies": {
+    "react-error-overlay": "6.0.9"  
+  }
+}
